@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18165983971",
+    "project_id": "mytime-b1e38",
+    "storage_bucket": "mytime-b1e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18165983971:android:ff2ea4b574014dcaec33d6",
+        "android_client_info": {
+          "package_name": "com.example.mytime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlRLJ-bLE67qauWvvWX1XG2TwqkzS0MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
